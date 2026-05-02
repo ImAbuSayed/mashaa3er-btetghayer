@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين يا روحي
+> قلبي ينادي في سكوني
+> تعال هنا ضمني
+> شوقي نار لا تلومني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
