@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mashaa3er Btetghayer
+
+This log tracks the cryptographic history and versioning for the song **Mashaa3er Btetghayer** (mashaa3er-btetghayer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:06:54.836811 | `v1` | `70e2c2ac329e53bb3ffa14032b46fa3dcc683392f1e74d53cf86c105e6ea835b` | `ca553695220f3b4c49394fabb8e6b2dcac4ac44c404b04974d1c5c51f76df4b3` | `2026-05-08_mashaa3er-btetghayer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
